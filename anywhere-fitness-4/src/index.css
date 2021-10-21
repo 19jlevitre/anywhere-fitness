@@ -1,0 +1,19 @@
+@import '../src/components/styles/Header.css';
+@import '../src/components/styles/Footer.css';
+@import '../src/components/styles/Home.css';
+@import '../src/components/styles/Classes.css';
+@import '../src/components/styles/ClassComp.css';
+@import '../src/components/styles/Bookings.css';
+#root {
+    background-color: #1e1e1c;
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: white;
+}
+
+input, option, select {
+    color: black
+}
